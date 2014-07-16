@@ -15,6 +15,8 @@
 /*
 !.gitignore
 !README.md
+!favicon.ico
+!obsolete.html
 !wp-content/
  
 # Ignore everything in the "wp-content" directory, except the "plugins"
@@ -22,6 +24,7 @@
 wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
+!wp-content/uploads/
  
 # Ignore everything in the "plugins" directory, except the plugins you
 # specify (see the commented-out examples for hints on how to do this.)
@@ -46,5 +49,4 @@ wp-content/backups/
 wp-content/blogs.dir/
 wp-content/cache/
 wp-content/upgrade/
-wp-content/uploads/
 wp-content/wp-cache-config.php
